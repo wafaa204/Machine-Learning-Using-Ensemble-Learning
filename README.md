@@ -10,3 +10,8 @@ Comparing accuracy across different ensemble approaches
 Experimenting with multiple base learners and meta-models
 
 The notebook provides clean, well-commented code and a practical demonstration of how ensemble methods can significantly improve classification performance.
+
+
+If you have any question or any thing you have to tell me you can contact with me using my e-mail wafaaemk2004@gmail.com 
+
+                                               Thank you for your time
